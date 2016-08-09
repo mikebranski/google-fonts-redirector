@@ -5,7 +5,7 @@
 
 # Installation
 
-Currently there isn't a `.crx` file or a Chrome store link, but you can download
+Currently there isn't a `.crx` file or a Chrome store link, but you can [download](https://github.com/mikebranski/google-fonts-redirector/archive/master.zip)
 this project and [install it pretty easily as an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 ## Why for?
