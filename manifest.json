@@ -3,7 +3,7 @@
   "author": "Mike Branski (http://mikebranski.com/)",
   "name": "Google Fonts Redirector",
   "description": "This extension ensure you're always viewing the newest version of Google Fonts",
-  "version": "1.0",
+  "version": "1.0.1",
   "background": {
     "scripts": ["background.js"]
   },
