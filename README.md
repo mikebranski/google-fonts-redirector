@@ -5,10 +5,14 @@
 
 # Installation
 
-Currently there isn't a `.crx` file or a Chrome store link, but you can [download](https://github.com/mikebranski/google-fonts-redirector/archive/master.zip)
-this project and [install it pretty easily as an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked).
+You can [download it directly](https://chrome.google.com/webstore/detail/google-fonts-redirector/fidipbbihoglcmonjdnfealklijlodae)
+from the Chrome Webstore.
 
-## Why for?
+If for any reason you do not want to go through the Chrome Webstore, you can [download](https://github.com/mikebranski/google-fonts-redirector/archive/master.zip)
+the project from GitHub and [install it pretty easily as an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked). Just
+take note that you will not receive automatic updates this way.
+
+## Why?
 
 Google recently introduced [a super sexy overhaul](https://design.google.com/articles/reimagining-google-fonts/)
 for their excellent Fonts platform. This is great, but they don't automatically
