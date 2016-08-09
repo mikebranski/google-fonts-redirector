@@ -8,7 +8,8 @@
 You can [download it directly](https://chrome.google.com/webstore/detail/google-fonts-redirector/fidipbbihoglcmonjdnfealklijlodae)
 from the Chrome Webstore.
 
-If for any reason you do not want to go through the Chrome Webstore, you can [download](https://github.com/mikebranski/google-fonts-redirector/archive/master.zip)
+If for any reason you do not want to go through the Chrome Webstore, you can
+grab the [`.crx` file directly](https://github.com/mikebranski/google-fonts-redirector/blob/master/google-fonts-redirect-chrome-extension.crx), or  [download](https://github.com/mikebranski/google-fonts-redirector/archive/master.zip)
 the project from GitHub and [install it pretty easily as an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked). Just
 take note that you will not receive automatic updates this way.
 
